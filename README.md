@@ -1,4 +1,4 @@
 sbt-plugin-example
 ==================
 
-An example of a custom sbt command
+Please see the appropriate branches for examples of a custom task and a custom command, used as an sbt plugin
