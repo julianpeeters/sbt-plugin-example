@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/sbt-plugin-example-0.1.1-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	MyPlugin$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/classes/MyPlugin$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	MyPlugin$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/classes/MyPlugin$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	sbt[0m
+[0m[[0mdebug[0m] [0m	  /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/classes/sbt[0m
+[0m[[0mdebug[0m] [0m	MyPlugin.class[0m
+[0m[[0mdebug[0m] [0m	  /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/classes/MyPlugin.class[0m
+[0m[[0mdebug[0m] [0m	sbt/sbt.plugins[0m
+[0m[[0mdebug[0m] [0m	  /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/classes/sbt/sbt.plugins[0m
+[0m[[0mdebug[0m] [0m	MyPlugin$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/classes/MyPlugin$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

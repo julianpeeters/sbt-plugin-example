@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0mPackaging /home/julianpeeters/sbt-plugin-example/target/scala-2.9.2/sbt-0.12/sbt-plugin-example-0.1.1-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	MyPlugin.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/julianpeeters/sbt-plugin-example/src/main/scala/MyPlugin.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
